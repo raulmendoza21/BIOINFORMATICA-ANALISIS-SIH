@@ -75,12 +75,12 @@ Incluye:
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Raúl Mendoza**  
 **Adrian Ojeda**  
 Estudiante de Ciencia e Ingeniería de Datos  
-Universidad de La Laguna (ULL)  
+Universidad de La Laguna (ULPGC)  
 *Curso 2024–2025*
 
 ---
